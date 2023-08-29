@@ -1,5 +1,6 @@
 // system headers
 #include <iostream>
+#include <cstdint>
 
 // library headers
 #include <args.hxx>
